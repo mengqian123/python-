@@ -157,6 +157,11 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+=======
+    <option name="x" value="-132" />
+    <option name="y" value="-32" />
+>>>>>>> dev
     <option name="width" value="1204" />
     <option name="height" value="1356" />
   </component>
